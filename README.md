@@ -80,12 +80,12 @@ A proposta é simplificar o controle de gastos e metas financeiras sem depender 
 
 # 🛠️ Funcionalidades do App de Finanças Pessoais
 
-- Registro de gastos via chat em linguagem natural
-- Classificação automática das transações (alimentação, transporte, lazer etc.)  
-- Definição e acompanhamento de metas financeiras  
-- Agente Financeiro que envia dicas de economia personalizadas  
-- Relatórios simples e visuais, adaptados ao perfil do usuário  
-- Design universal: interface inclusiva e acessível para diferentes perfis de usuários
+- Registro de gastos via chat em linguagem natural.
+- Classificação automática das transações (alimentação, transporte, lazer etc.).
+- Definição e acompanhamento de metas financeiras.
+- Agente Financeiro que envia dicas de economia personalizadas. 
+- Relatórios simples e visuais, adaptados ao perfil do usuário. 
+- Design universal: interface inclusiva e acessível para diferentes perfis de usuários.
 
 
 # 💭 Reflexões sobre a interação com IA
