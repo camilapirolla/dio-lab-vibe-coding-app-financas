@@ -55,35 +55,24 @@ A proposta é simplificar o controle de gastos e metas financeiras sem depender 
 
 ### COPILOT: utilizado para refinar o PRD
 
-  
-  <img width="1917" height="926" alt="Print 1" src="https://github.com/user-attachments/assets/1502f782-c14d-4aa1-8fff-aa681e2f5592" />
+
+<img width="1917" height="926" alt="Print 1" src="https://github.com/user-attachments/assets/1502f782-c14d-4aa1-8fff-aa681e2f5592" />
 
 
 
 ### LOVEBLE: utilizado para criar um MVP visual das telas
-
-
-1. Assistente Financeiro:
    
 
 <img width="636" height="792" alt="image" src="https://github.com/user-attachments/assets/3a6a2857-5dc7-418e-b880-1d37ebdf24aa" />
 
 
-2. Metas:
-
-
 <img width="631" height="802" alt="image" src="https://github.com/user-attachments/assets/722814cf-db0a-4ce3-9478-d613b7418259" />
-
-
-3. Relatórios:
 
 
 <img width="625" height="793" alt="image" src="https://github.com/user-attachments/assets/ccd851b3-3c55-443a-b3df-7e2336588b79" />
 
 
-
 <img width="597" height="701" alt="image" src="https://github.com/user-attachments/assets/ad3d5475-d519-41c7-9b34-e52f18b92d5b" />
-
 
 
 <img width="637" height="797" alt="image" src="https://github.com/user-attachments/assets/ab56dc90-c898-4147-8a49-c233ae7bf152" />
@@ -115,5 +104,3 @@ A proposta é simplificar o controle de gastos e metas financeiras sem depender 
 - O processo funciona melhor quando as informações são verificadas passo a passo.  
 - Dividir os comandos em tarefas menores ajuda a manter clareza e foco.  
 - Técnicas de engenharia de prompt devem ser aplicadas de acordo com o cenário da demanda.
-  
-tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
